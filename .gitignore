@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MD output
+*.xtc
+*.trr
+*.edr
+*.cpt
+*.tpr
